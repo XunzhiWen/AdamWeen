@@ -1,3 +1,3 @@
-Welcome! This is the home page of Xunzhi Wen, a senior student majoring in Science of Information and Calculation in Xi'an Jiao Tong University. I'm currently studing machine learning and Data Structure.
+Welcome to my GitHub page! I am currently pursuing my Master's degree in Computational Science and Engineering at Georgia Tech. My primary focus lies in software development, full-stack projects, and databases. During my undergraduate studies at Xi'an Jiao Tong University, I had the opportunity to work as a Research Assistant in the field of Machine Learning. I'm excited to continue learning and staying updated on the latest advancements in this domain. Feel free to explore my GitHub repositories and connect with me to discuss any relevant topics or projects.
 
-你好，这里是闻逊之的主页，我是一名西安交通大学信息与计算科学专业的本科生，目前正在研究机器学习和数据结构，请多多指教！！！
+欢迎访问我的GitHub页面！我目前正在攻读佐治亚理工学院的计算科学与工程硕士学位。我的主要关注领域包括软件开发、全栈项目以及数据库。在攻读西安交通大学学士学位期间，我曾有幸担任机器学习领域的研究助理。我非常愿意继续学习，并随时关注这一领域的最新进展。请随意浏览我的GitHub存储库，并与我联系，讨论任何相关话题或项目。
